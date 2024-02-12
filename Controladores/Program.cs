@@ -20,7 +20,7 @@ namespace RepasoJava0702.Controladores
             List<ActividadDto> listaActividad= new List<ActividadDto>();
             //Creamos los objetos
             MenuInterfaz mI = new MenuImplementacion();
-
+            OperacionesInterfaz oI= new OperacionesImplementacion();    
             //Creamos los atributos necesarios
             int opcionSeleccionada = 0;
             bool cerrarMenu=false;
@@ -36,11 +36,11 @@ namespace RepasoJava0702.Controladores
                         break;
                     case 1:
                         Console.WriteLine("[INFO] - Ha seleccionado la opcion dar de alta a una actividad");
-                        
+                        oI.altaActividad(listaActividad);
                         break;
                     case 2:
                         Console.WriteLine("[INFO] - Ha seleccionado la opcion eliminar una actividad");
-                        
+                        oI.eliminarActividad(listaActividad);
                         break;
                     default:
                         Console.WriteLine("[INFO] - La opcion seleccionada no coincide con ninguna opcion mostrada anteriormente");

@@ -1,0 +1,14 @@
+C:\Users\csi22-irodhan\Desktop\Programacion\EjerciciosDateTime\RepasoJava0702\bin\Debug\net6.0\RepasoJava0702.exe
+C:\Users\csi22-irodhan\Desktop\Programacion\EjerciciosDateTime\RepasoJava0702\bin\Debug\net6.0\RepasoJava0702.deps.json
+C:\Users\csi22-irodhan\Desktop\Programacion\EjerciciosDateTime\RepasoJava0702\bin\Debug\net6.0\RepasoJava0702.runtimeconfig.json
+C:\Users\csi22-irodhan\Desktop\Programacion\EjerciciosDateTime\RepasoJava0702\bin\Debug\net6.0\RepasoJava0702.dll
+C:\Users\csi22-irodhan\Desktop\Programacion\EjerciciosDateTime\RepasoJava0702\bin\Debug\net6.0\RepasoJava0702.pdb
+C:\Users\csi22-irodhan\Desktop\Programacion\EjerciciosDateTime\RepasoJava0702\obj\Debug\net6.0\RepasoJava0702.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\csi22-irodhan\Desktop\Programacion\EjerciciosDateTime\RepasoJava0702\obj\Debug\net6.0\RepasoJava0702.AssemblyInfoInputs.cache
+C:\Users\csi22-irodhan\Desktop\Programacion\EjerciciosDateTime\RepasoJava0702\obj\Debug\net6.0\RepasoJava0702.AssemblyInfo.cs
+C:\Users\csi22-irodhan\Desktop\Programacion\EjerciciosDateTime\RepasoJava0702\obj\Debug\net6.0\RepasoJava0702.csproj.CoreCompileInputs.cache
+C:\Users\csi22-irodhan\Desktop\Programacion\EjerciciosDateTime\RepasoJava0702\obj\Debug\net6.0\RepasoJava0702.dll
+C:\Users\csi22-irodhan\Desktop\Programacion\EjerciciosDateTime\RepasoJava0702\obj\Debug\net6.0\refint\RepasoJava0702.dll
+C:\Users\csi22-irodhan\Desktop\Programacion\EjerciciosDateTime\RepasoJava0702\obj\Debug\net6.0\RepasoJava0702.pdb
+C:\Users\csi22-irodhan\Desktop\Programacion\EjerciciosDateTime\RepasoJava0702\obj\Debug\net6.0\RepasoJava0702.genruntimeconfig.cache
+C:\Users\csi22-irodhan\Desktop\Programacion\EjerciciosDateTime\RepasoJava0702\obj\Debug\net6.0\ref\RepasoJava0702.dll
